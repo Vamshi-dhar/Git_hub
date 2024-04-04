@@ -9,7 +9,7 @@ Here I will be presenting commands that I learnt about git hub
 sna_path = "file:///mnt/beegfs_adam/temp/directory_name"
 
 ### input data
-call_summary_data: <sna_path>/call_summary_data/
+call_summary_data: `<sna_path>/call_summary_data/`
 night_location_data:  <sna_path>/night_location_data/
 
 ### Temp files
